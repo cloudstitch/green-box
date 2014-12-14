@@ -24,3 +24,5 @@ $ ionic serve
 ```
 
 This should open a web browser directly to the app.
+
+-Ted
